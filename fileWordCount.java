@@ -1,3 +1,4 @@
+//Write a Java program that displays the number of characters, lines and words in a text file.
 import java.io.*;
 
 class fileWordCount {
