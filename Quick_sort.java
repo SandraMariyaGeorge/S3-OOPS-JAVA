@@ -1,6 +1,6 @@
 import java.util.*;
-class Sort
-{
+
+class Sort {
     void qsort(String a[], int first, int last) {
         int i, j;
         String pivot, temp;
