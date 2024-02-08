@@ -8,7 +8,7 @@ public class TemperatureConverter {
     public static void main(String[] args) {
         try {
             Scanner sc = new Scanner(System.in);
-            System.out.println("enter the Celsius value");
+            System.out.println("Enter the Celsius value");
             double d = sc.nextDouble();
             converttoFahrenheit(d);
         } catch (InputMismatchException e) {
